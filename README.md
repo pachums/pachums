@@ -2,7 +2,6 @@
                                                                                         src="https://simpleicons.org/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/franciscoms97/" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px"
                                                                                         src="https://simpleicons.org/icons/linkedin.svg" /></a>
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
 
 # Welcome! :)
 
@@ -40,4 +39,6 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
 </p>
 
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
 #### "They admire you for the way you are, not for your CV"
