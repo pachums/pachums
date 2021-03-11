@@ -54,8 +54,8 @@
 
 
 ## My GitHub Stats
-<center>
+<p align="center"> 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
 
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
-</center>
+</p>
