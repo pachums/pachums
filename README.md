@@ -25,6 +25,7 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 ![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Apps-Docker-informational?style=flat&logo=docker&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Apps-JAVA-informational?style=flat&logo=java&logoColor=white&color=00b029)
+![](https://img.shields.io/badge/Apps-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=00b029)
 
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=00b029)
