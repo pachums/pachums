@@ -37,8 +37,10 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 
 
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
+#### "They admire you for the way you are, not for your CV"
+
 </p>
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
-#### "They admire you for the way you are, not for your CV"
+
