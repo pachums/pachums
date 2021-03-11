@@ -34,6 +34,7 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 
 ## My GitHub Stats
 <p align="center"> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=pachums&show_icons=true&theme=react" alt="GitHub Stats" >
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
 </p>
 
