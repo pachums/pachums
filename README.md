@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/franciscoms97/" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px"
                                                                                         src="https://simpleicons.org/icons/linkedin.svg" /></a>
 
-# Welcome! :)
+# Welcome visitor! 😄
 
 Mathematician with a great passion for Data Science and Machine Learning. I am a self-starter, proactive and enjoy working and learning in a team.
 
