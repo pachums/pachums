@@ -34,12 +34,14 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 
 ## My GitHub Stats
 <p align="center"> 
-
-
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
+</p>
 
+<p align="center"> 
 <b>"They admire you for the way you are, not for your CV"</b>
 </p>
+
+
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
