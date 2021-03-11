@@ -14,6 +14,7 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 ![](https://img.shields.io/pypi/pyversions/Django?color=00b029&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=00b029)
+![](https://img.shields.io/badge/Python-Geopandas-informational?style=flat&logo=python&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Python-SciPy-informational?style=flat&logo=python&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Python-Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=00b029)
@@ -26,10 +27,6 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00b029)
-
-![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00b029)
-![](https://img.shields.io/badge/#232F3E?style=flat&logo=Amazon-AWS&logoColor=white&color=00b029)
-![](https://img.shields.io/badge/AWS-CloudFront-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00b029)
 
 
 
