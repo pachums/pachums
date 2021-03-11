@@ -2,33 +2,13 @@
                                                                                         src="https://simpleicons.org/icons/github.svg" /></a>
 <a href="https://www.linkedin.com/in/franciscoms97/" target="_blank" rel="nofollow"><img align="right" alt="Linkdein" width="43px"
                                                                                         src="https://simpleicons.org/icons/linkedin.svg" /></a>
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
 
+# Welcome! :)
 
-# Hi there!
+Mathematician with a great passion for Data Science and Machine Learning. I am a self-starter, proactive and enjoy working and learning in a team.
 
-- 🎓 Mathematician and Physicist turned ML Research Engineer
-
-- 🤗 Very interested in NLP & XAI, especially applied to Biomedicine
-
-
-## Past
-
-- 🚀 Check my working and research experience on [LinkedIn](https://www.linkedin.com/in/mariagrandury/)
-
-- 🤓 Check my projects and get to know me better visiting my [Personal Website](https://mariagrandury.github.io/)
-
-
-## Future
-
-- ⚡ I'm always looking for cool AI projects to continue developing my skills 
-
-- 💚 I want to make a positive impact on people's lives, i.e: use AI FOR GOOD!
-
-
-## Now
-
-- ☕️ Reach out! Would love to e-meet you!
-
+"They admire you for the way you are, not for your CV". 
 
 ## Skills
 ![](https://img.shields.io/pypi/pyversions/Django?color=00b029&logo=python&logoColor=white)
@@ -55,7 +35,7 @@
 
 ## My GitHub Stats
 <p align="center"> 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
+
 
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
 </p>
