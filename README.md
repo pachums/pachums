@@ -8,8 +8,6 @@
 
 Mathematician with a great passion for Data Science and Machine Learning. I am a self-starter, proactive and enjoy working and learning in a team.
 
-"They admire you for the way you are, not for your CV". 
-
 ## Skills
 ![](https://img.shields.io/pypi/pyversions/Django?color=00b029&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=00b029)
@@ -26,7 +24,7 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 ![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Oracle-JAVA-informational?style=flat&logo=java&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Language-Octave-informational?style=flat&logo=octave&logoColor=white&color=00b029)
-![](https://img.shields.io/badge/Language-fortran-informational?style=flat&logo=fortran&logoColor=white&color=00b029)
+![](https://img.shields.io/badge/Language-Fortran-informational?style=flat&logo=fortran&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Apps-Docker-informational?style=flat&logo=docker&logoColor=white&color=00b029)
 
 ![](https://img.shields.io/badge/Data--Science-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=00b029)
@@ -41,3 +39,5 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
 </p>
+
+#### "They admire you for the way you are, not for your CV"
