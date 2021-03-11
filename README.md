@@ -22,12 +22,12 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 ![](https://img.shields.io/badge/Python-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Python-GDAL-informational?style=flat&logo=python&logoColor=white&color=00b029)
 
+![](https://img.shields.io/badge/Data-R-informational?style=flat&logo=r&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00b029)
+![](https://img.shields.io/badge/Oracle-JAVA-informational?style=flat&logo=java&logoColor=white&color=00b029)
+![](https://img.shields.io/badge/Programming -Octave-informational?style=flat&logo=octave&logoColor=white&color=00b029)
+![](https://img.shields.io/badge/Programming-fortran-informational?style=flat&logo=fortran&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Apps-Docker-informational?style=flat&logo=docker&logoColor=white&color=00b029)
-![](https://img.shields.io/badge/Apps-JAVA-informational?style=flat&logo=java&logoColor=white&color=00b029)
-![](https://img.shields.io/badge/Apps-Matlab-informational?style=flat&logo=octave&logoColor=white&color=00b029)
-![](https://img.shields.io/badge/Apps-R-informational?style=flat&logo=r&logoColor=white&color=00b029)
-![](https://img.shields.io/badge/Apps-fortran-informational?style=flat&logo=fortran&logoColor=white&color=00b029)
 
 ![](https://img.shields.io/badge/IDE-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00b029)
