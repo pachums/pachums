@@ -54,21 +54,8 @@
 
 
 ## My GitHub Stats
-
+<center>
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pachums.pachums)
 
-[![Sparkline](https://stars.medv.io/pachums/cloudbutton_HORIZON2020.svg)](https://stars.medv.io/pachums/cloudbutton_HORIZON2020)
-
-
 <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pachums&layout=compact&theme=react" alt="Most Used Languages" >
-
-
-<details close>
- <summary> <b>Acknowledgements:</b> </summary>
-  
-  - [Icons](https://simpleicons.org/)
-  - [Skills badges](https://shields.io/)
-  - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Visitors badge](https://visitor-badge.laobi.icu/)
-  
-</details>
+</center>
