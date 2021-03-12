@@ -18,6 +18,7 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 ![](https://img.shields.io/badge/Python-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Python-Keras-informational?style=flat&logo=keras&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Python-GDAL-informational?style=flat&logo=python&logoColor=white&color=00b029)
+![](https://img.shields.io/badge/Python-GDAL-informational?style=flat&logo=tidyverse&logoColor=white&color=00b029)
 
 ![](https://img.shields.io/badge/Data-R-informational?style=flat&logo=r&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Data-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00b029)
