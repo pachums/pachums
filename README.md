@@ -26,6 +26,8 @@ Mathematician with a great passion for Data Science and Machine Learning. I am a
 ![](https://img.shields.io/badge/Language-Fortran-informational?style=flat&logo=fortran&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/Oracle-JAVA-informational?style=flat&logo=java&logoColor=white&color=00b029)
 
+![](https://img.shields.io/badge/GCP-BigQuery-informational?style=flat&logo=bigquery&logoColor=white&color=00b029)
+
 ![](https://img.shields.io/badge/Data--Science-Anaconda-informational?style=flat&logo=anaconda&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00b029)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=00b029)
